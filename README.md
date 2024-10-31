@@ -6,9 +6,9 @@
 
 ---
 
-### 🌐 Projets récents
+## 🌐 Projets récents
 
-## Projets dans le cadre de ma formation:
+### Projets dans le cadre de ma formation:
 - [**Tangram**](https://lembont.github.io/Tangram-TC-PB-GD/) : Un projet collaboratif de tangram interactif, réalisé en équipe de trois. Développé en HTML, CSS et JavaScript. Réalisé dans le cadre de ma formation Simplon
 - [**Monuments**](https://retrogreg.github.io/Monuments/) : Un site interactif présentant des monuments emblématiques. Créé avec HTML, CSS et JavaScript, il utilise Leaflet pour des cartes dynamiques. Réalisé dans le cadre de ma formation Simplon
 
