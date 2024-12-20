@@ -21,6 +21,8 @@ Je suis actuellement à la recherche d'un stage de développeur web pour la pér
 - [**Tangram**](https://lembont.github.io/Tangram-TC-PB-GD/) : Un projet collaboratif de tangram interactif, réalisé en équipe de trois. Développé en HTML, CSS et JavaScript. Réalisé dans le cadre de ma formation Simplon.  
 - [**Monuments**](https://retrogreg.github.io/Monuments/) : Un site interactif présentant des monuments emblématiques. Créé avec HTML, CSS et JavaScript, il utilise Leaflet pour des cartes dynamiques. Réalisé dans le cadre de ma formation Simplon.
 
+### Projets personnels :
+- [**Horloge**](https://retrogreg.github.io/Horloge/) : Une horloge analogique/numérique interactive avec thèmes dynamiques et animations personnalisées.
 ---
 
 ## 🚧 Projets en cours
