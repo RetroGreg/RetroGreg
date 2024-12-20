@@ -81,7 +81,3 @@ Je suis actuellement à la recherche d'un stage de développeur web pour la pér
 - N'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com/in/gr%C3%A9goire-dupont-801355328/)
 
 ---
-<p align="center">
-  <img src="21-45-34-3_512.webp" alt="Greg Dev" width="200"/>
-</p>
-
