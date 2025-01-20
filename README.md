@@ -23,6 +23,7 @@ Je suis actuellement à la recherche d'un stage de développeur web pour la pér
 
 ### Projets personnels :
 - [**Horloge**](https://retrogreg.github.io/Horloge/) : Une horloge analogique/numérique interactive avec thèmes dynamiques et animations personnalisées.
+- [**SpaceX Dashboard**](https://space-x-ruby.vercel.app/) : Une application permettant de suivre les prochains lancements de SpaceX en temps réel, utilisant Next.js, React et Tailwind CSS.
 ---
 
 ## 🚧 Projets en cours
