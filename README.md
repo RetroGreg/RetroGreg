@@ -10,9 +10,6 @@
 
 Je suis actuellement en formation avec Simplon pour devenir développeur web. Egalement passionné par les jeux vidéo rétro, l'esthétique pixel art, et les interfaces inspirées des années 80-90. Ce qui m'a motivé à choisir le développement web, c'est la possibilité de créer des expériences interactives et originales, tout en alliant technologie et créativité. 
 
-## 🚀 En recherche de stage
-Je suis actuellement à la recherche d'un stage de développeur web pour la période du 3 février au 28 avril 2025. N'hésitez pas à me contacter si vous avez une opportunité qui pourrait correspondre !
-
 ---
 
 ## 🌐 Projets récents
