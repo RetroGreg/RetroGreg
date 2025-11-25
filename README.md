@@ -1,7 +1,7 @@
 # Grégoire Dupont
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Retro+Gaming+Enthusiast;Building+Interactive+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Développeur+Web+Full+Stack;En+recherche+d'alternance+CDA;Passionné+par+le+rétro+gaming;Créateur+d'expériences+interactives" alt="Typing SVG" />
 </p>
 
 <p align="center">
