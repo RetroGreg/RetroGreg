@@ -1,11 +1,11 @@
 # 👋 Bonjour, je suis Grégoire Dupont
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+Full+Stack;Passionn%C3%A9+par+le+r%C3%A9tro+gaming;Cr%C3%A9ateur+d'exp%C3%A9riences+interactives" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Développeur+Web+Full+Stack;En+recherche+d'alternance+CDA;Passionné+par+le+rétro+gaming;Créateur+d'expériences+interactives" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gr%C3%A9goire-dupont-801355328/">
+  <a href="https://www.linkedin.com/in/grégoire-dupont-801355328/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dupontgregoire21@gmail.com">
@@ -20,7 +20,17 @@
 
 ## 🚀 À propos de moi
 
-**Développeur Web Full Stack** fraîchement diplômé de la formation Simplon, je combine expertise technique et créativité pour créer des applications web innovantes. Inspiré par l'esthétique rétro des années 80-90 et passionné par les jeux vidéo classiques, j'apporte une touche unique à mes projets.
+**Développeur Web Full Stack** diplômé de la formation Simplon, actuellement en recherche d'**alternance pour le titre Concepteur Développeur d'Applications (Bac+3)** avec ENI École Informatique.
+
+J'ai travaillé sur des projets en **Symfony 6/Vue.js 3** lors de mon stage chez French Tech Nord Littoral et maîtrise React, Next.js et PHP. La formation CDA me permettra d'approfondir **Java/Spring Boot, C#/ASP.NET** et le **développement mobile** (Android, Xamarin, Ionic).
+
+Inspiré par l'esthétique rétro des années 80-90 et passionné par les jeux vidéo classiques, j'apporte une touche unique à mes projets.
+
+### 💼 Recherche actuellement
+- 📍 **Alternance en contrat de professionnalisation**
+- 🎓 Formation : Concepteur Développeur d'Applications (Bac+3) - ENI École
+- 📅 Rythme : 1-2 semaines école / 4-8 semaines entreprise
+- 🌍 Hauts-de-France ou télétravail
 
 ### 💡 Ce qui me motive
 - 🎮 Transformer des idées créatives en expériences interactives
@@ -34,17 +44,20 @@
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cs" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,symfony,bootstrap,tailwind" />
 </p>
 
 ### Outils & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,mysql,vscode,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,docker,mysql,postgres,vscode,figma,vercel" />
 </p>
 
-### En cours d'apprentissage
+### En apprentissage (Formation CDA)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,symfony,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,android" />
 </p>
 
 ---
@@ -75,14 +88,21 @@ Horloge analogique/numérique avec thèmes dynamiques
 - **Features**: Multiple thèmes, animations personnalisées, mode jour/nuit
 - 🔗 [Demo](https://retrogreg.github.io/Horloge/) | [Code](https://github.com/RetroGreg/Horloge)
 
+### 🗺️ **Côte d'Opale Interactive**
+Carte touristique interactive avec 25 lieux emblématiques
+- **Technologies**: Vite, Leaflet.js, JavaScript ES6, CSS3
+- **Features**: Tour guidé automatique, géolocalisation, favoris, recherche
+- 🔗 [Demo](https://cote-d-opale.vercel.app/) | [Code](https://github.com/RetroGreg/Cote-d-opale)
+
+### 🧱 **Gregonoïd**
+Casse-brique rétro inspiré d'Arkanoid avec esthétique néon
+- **Technologies**: Phaser.js 3, JavaScript, Pixel Art
+- **Features**: Power-ups, briques animées, tableau des scores
+- 🔗 [Demo](https://gregonoid.vercel.app/) | [Code](https://github.com/RetroGreg/gregonoid)
+
 ---
 
 ## 🎮 Projets en développement
-
-### 🧱 **Gregonoïd**
-Casse-brique rétro inspiré d'Arkanoid avec une touche moderne
-- **Stack**: Phaser.js, JavaScript, Pixel Art
-- **Status**: 70% complété
 
 ### 🦍 **Gorilles**
 Remake moderne du classique Gorillas.bas
@@ -109,10 +129,11 @@ Remake moderne du classique Gorillas.bas
 
 ## 🎯 Objectifs 2025
 
-- [ ] Maîtriser React et son écosystème
+- [x] Valider ma formation Simplon
+- [ ] Obtenir mon titre CDA (Bac+3)
+- [ ] Maîtriser Java/Spring Boot et C#/ASP.NET
+- [ ] Développer une application mobile Android
 - [ ] Contribuer à des projets open source
-- [ ] Développer une application mobile
-- [ ] Approfondir mes connaissances en architecture logicielle
 - [ ] Créer un jeu web complet avec Phaser.js
 
 ---
@@ -120,7 +141,7 @@ Remake moderne du classique Gorillas.bas
 ## 🤝 Collaboration
 
 Je suis ouvert aux opportunités de :
-- 💼 **CDI/CDD** en tant que développeur web
+- 💼 **Alternance** en Concepteur Développeur d'Applications
 - 🚀 **Projets freelance** innovants
 - 🤝 **Collaborations** sur des projets open source
 - 🎮 **Game jams** et projets créatifs
@@ -130,10 +151,10 @@ Je suis ouvert aux opportunités de :
 ## 📬 Me contacter
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=400&lines=Ready+to+code+%3F;Let's+connect+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=400&lines=Ready+to+code+?;Let's+connect+!" alt="Typing SVG" />
 </p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gr%C3%A9goire-dupont-801355328/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/grégoire-dupont-801355328/)
 - 📧 [Email](mailto:dupontgregoire21@gmail.com)
 - 🌐 [Portfolio](https://gregoire-dupont.vercel.app/)
 
