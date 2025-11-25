@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Tous les jours à minuit
   workflow_dispatch: # Permet de lancer manuellement
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
