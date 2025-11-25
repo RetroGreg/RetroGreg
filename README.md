@@ -112,6 +112,10 @@ Sites emblématiques avec cartes dynamiques et animations.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RetroGreg&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RetroGreg/RetroGreg/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 <p align="center">
