@@ -14,7 +14,7 @@
 
 **Développeur Full Stack** passionné par le rétro gaming et les interfaces interactives. Je crée des expériences web qui mélangent performance technique et esthétique pixel art.
 
-🎯 **Actuellement** : Recherche d'alternance **Concepteur Développeur d'Applications (Bac+3)** avec ENI École — Hauts-de-France ou remote.
+🎯 **Actuellement** : Recherche d'alternance **Concepteur Développeur d'Applications (Bac+3)** avec ENI École Informatique dans les Hauts-de-France ou en remote.
 
 ---
 
@@ -106,10 +106,6 @@ Sites emblématiques avec cartes dynamiques et animations.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RetroGreg&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RetroGreg&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
