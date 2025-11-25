@@ -22,7 +22,7 @@
 
 **Développeur Web Full Stack** diplômé de la formation Simplon, actuellement en recherche d'**alternance pour le titre Concepteur Développeur d'Applications (Bac+3)** avec ENI École Informatique.
 
-J'ai travaillé sur des projets en **Symfony 6/Vue.js 3** lors de mon stage chez French Tech Nord Littoral et maîtrise React, Next.js et PHP. La formation CDA me permettra d'approfondir **Java/Spring Boot, C#/ASP.NET** et le **développement mobile** (Android, Xamarin, Ionic).
+J'ai travaillé sur des projets en **Symfony 6/Vue.js 3** lors de mon stage chez French Tech Nord Littoral et je connais React, Next.js et PHP. La formation CDA me permettra d'approfondir **Java/Spring Boot, C#/ASP.NET** et le **développement mobile** (Android, Xamarin, Ionic).
 
 Inspiré par l'esthétique rétro des années 80-90 et passionné par les jeux vidéo classiques, j'apporte une touche unique à mes projets.
 
