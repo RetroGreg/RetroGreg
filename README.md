@@ -50,23 +50,11 @@ Java/Spring Boot • C#/ASP.NET • Développement mobile Android
 ### 🚀 SpaceX Dashboard
 Suivi des lancements en temps réel avec données live API SpaceX.
 
-**Next.js • React • Tailwind**
+**Next.js • TypeScript • Tailwind**
 
-[Demo](https://space-x-ruby.vercel.app/) · [Code](https://github.com/RetroGreg/spacex)
-
-</td>
-<td width="50%">
-
-### 🧱 Gregonoïd
-Casse-brique rétro avec esthétique néon, power-ups et leaderboard.
-
-**Phaser.js • JavaScript • Pixel Art**
-
-[Demo](https://gregonoid.vercel.app/) · [Code](https://github.com/RetroGreg/gregonoid)
+[Demo](https://space-x-ruby.vercel.app/) · [Code](https://github.com/RetroGreg/SpaceX)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🗺️ Côte d'Opale Interactive
@@ -77,14 +65,48 @@ Carte touristique avec tour guidé, géolocalisation et 25 POI.
 [Demo](https://cote-d-opale.vercel.app/) · [Code](https://github.com/RetroGreg/Cote-d-opale)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### 🏛️ Monuments
-Sites emblématiques avec cartes dynamiques et animations.
+### 🧱 Gregonoïd
+Casse-brique rétro avec esthétique néon, power-ups et leaderboard.
 
-**JavaScript • Leaflet.js • CSS3**
+**Phaser.js • JavaScript • Pixel Art**
 
-[Demo](https://retrogreg.github.io/Monuments/) · [Code](https://github.com/RetroGreg/Monuments)
+[Demo](https://gregonoid.vercel.app/) · [Code](https://github.com/RetroGreg/gregonoid)
+
+</td>
+<td width="50%">
+
+### 🕹️ TIC-TAC-TOE.EXE
+Jeu rétro façon DOS avec rendu 3D temps réel et effets sonores.
+
+**Three.js • Phaser 3 • Web Audio API**
+
+[Demo](https://retrogreg.github.io/tic-tac-toe.exe/) · [Code](https://github.com/RetroGreg/tic-tac-toe.exe)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🕐 Horloge Créative
+Horloge innovante où les chiffres défilent sur les aiguilles.
+
+**JavaScript • CSS3 • HTML5**
+
+[Demo](https://retrogreg.github.io/Horloge/) · [Code](https://github.com/RetroGreg/Horloge)
+
+</td>
+<td width="50%">
+
+### 📄 CV Evolution
+De HTML basique à une application moderne, étape par étape.
+
+**HTML5 • CSS3**
+
+[Code](https://github.com/RetroGreg/cv-evolution)
 
 </td>
 </tr>
