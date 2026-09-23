@@ -15,14 +15,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: RetroGreg
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -38,6 +30,15 @@ jobs:
           options: username=RetroGreg&layout=compact&theme=radical&hide_border=true
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # snk runs in Docker as root, so it must run after the stats cards write to dist/
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: RetroGreg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
