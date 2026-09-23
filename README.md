@@ -123,11 +123,11 @@ De HTML basique à une application moderne, étape par étape.
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RetroGreg&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/RetroGreg/RetroGreg/output/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RetroGreg&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/RetroGreg/RetroGreg/output/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
